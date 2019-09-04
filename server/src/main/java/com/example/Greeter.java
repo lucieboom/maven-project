@@ -3,7 +3,9 @@ package com.example;
 
 public class Greeter {
 
-  
+  /**
+  * Constructor by default.
+  */
   public Greeter() {
 
   }
